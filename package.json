@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-remark-bulma",
+  "name": "gatsby-remark-bulma-v2",
   "version": "2.0.0",
   "description": "A gatsby-transformer-remark plugin for decorating html elements with Bulma.io classes.",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "Sebastian Pietschner <sebastian.pietschner@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mdast-util-to-string": "^1.0.6",
+    "mdast-util-to-string": "^1.1.0",
     "unist-util-visit": "^1.4.1",
     "unist-util-visit-parents": "^2.1.2"
   },
